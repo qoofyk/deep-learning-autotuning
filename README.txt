@@ -15,7 +15,7 @@ You can just run it using this command.
 
 python plearn2Hua.py
 
-It will train our network and then perform the validation using our data in the HUAWEI directory.
+It will train our network and then perform the validation using our data in the "dataset" subdirectory.
 
 
 If you open the python code in an editor go to the bottom of the file.
